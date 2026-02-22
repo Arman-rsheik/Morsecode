@@ -1,7 +1,5 @@
 # Optical Morse Code Communication System 📡💡
 
-> **Hackathon Submission** | **Team Name:** Arman | **Date:** February 22, 2026
-
 ## 📖 Overview
 This project implements a complete **wireless optical communication system** that transmits text messages using Morse code through LED blinks and decodes them back to text using Computer Vision (OpenCV).
 
@@ -44,7 +42,7 @@ The system follows the **ITU-R M.1677-1** Morse Code standard but scaled for opt
 **Detection Logic:**
 The Python receiver analyzes a 150x150 pixel center crop of the video feed. It calculates a dynamic threshold based on calibration:
 `Threshold = (Calibrated_Dark_Level + Calibrated_Bright_Level) / 2`
-
+https://github.com/user-attachments/assets/ec9fa47d-7c04-474a-9bc7-c579e547bb04
 ## 🚀 Installation & Setup
 
 ### Prerequisites
@@ -93,4 +91,4 @@ Morsecode/
 │   └── src/main.cpp
 ├── README.md           # This file
 └── .gitignore
-https://github.com/user-attachments/assets/ec9fa47d-7c04-474a-9bc7-c579e547bb04
+
