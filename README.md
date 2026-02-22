@@ -93,3 +93,4 @@ Morsecode/
 │   └── src/main.cpp
 ├── README.md           # This file
 └── .gitignore
+https://github.com/user-attachments/assets/ec9fa47d-7c04-474a-9bc7-c579e547bb04
